@@ -1,0 +1,5 @@
+# YouTube Requirements
+google-api-python-client
+pandas
+ipykernel
+ipywidgets
