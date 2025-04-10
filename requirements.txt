@@ -1,5 +1,6 @@
 # YouTube Requirements
 google-api-python-client
+google-genai
 pandas
 ipykernel
 ipywidgets
