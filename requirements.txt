@@ -7,3 +7,9 @@ ipywidgets
 nltk
 html2text
 wordcloud
+transformers
+torch
+spacy
+en-core-web-trf
+lingua-language-detector
+deep_translator
