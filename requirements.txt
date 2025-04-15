@@ -4,3 +4,6 @@ google-genai
 pandas
 ipykernel
 ipywidgets
+nltk
+html2text
+wordcloud
