@@ -16,3 +16,4 @@ devtools
 beautifulsoup4
 praw
 tabulate
+markdown-pdf
