@@ -11,3 +11,7 @@ transformers
 torch
 lingua-language-detector
 deep_translator
+pydantic
+devtools
+beautifulsoup4
+praw
